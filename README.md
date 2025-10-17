@@ -1,27 +1,25 @@
 # AWS Solutions Architect  ![License](https://img.shields.io/badge/license-MIT-blue) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedAlhusaini.AWS-Cloud-Associate)
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 2rem;">
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 60%;">
+      <p>
+        Hello! I'm <strong>Ahmed Tarek Alhusainy</strong>, welcome to the <strong>AWS Solutions Architect Associate (SAA-C03) Self-Study Guide</strong>!  
+        👉 <a href="https://ahmedalhusaini.github.io/AWS-Cloud-Associate-Solution-Architect-SelfStudy-Materials/" target="_blank">Open the Repo Navigator</a>
+      </p>
+      <p>
+        This repository is a roadmap based on my successful completion of the AWS SAA certification through the <strong>ALX Cloud Computing Program</strong>, which began with the <strong>Cloud Practitioner (CCP)</strong> track and was powered by <strong>AWS Academy Cloud Architecting v3</strong>.
+      </p>
+      <p>
+        Whether you're just starting or deep into your cloud journey, this guide offers a structured, resource-rich path to mastering AWS architecture principles and passing the certification with confidence. 🚀
+      </p>
+    </td>
+    <td style="text-align: center; width: 40%;">
+      <img src="./Assets/ALX%20Accepting%20Panar.png" alt="ALX Acceptance Banner" style="max-width: 30%; border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Text on the left -->
-  <div style="flex: 1; min-width: 280px;">
-    <p>
-      Hello! I'm <strong>Ahmed Tarek Alhusainy</strong>, welcome to the <strong>AWS Solutions Architect Associate (SAA-C03) Self-Study Guide</strong>!  
-      👉 <a href="https://ahmedalhusaini.github.io/AWS-Cloud-Associate-Solution-Architect-SelfStudy-Materials/" target="_blank">Open the Repo Navigator</a>
-    </p>
-    <p>
-      This repository is a roadmap based on my successful completion of the AWS SAA certification through the <strong>ALX Cloud Computing Program</strong>, which began with the <strong>Cloud Practitioner (CCP)</strong> track and was powered by <strong>AWS Academy Cloud Architecting v3</strong>.
-    </p>
-    <p>
-      Whether you're just starting or deep into your cloud journey, this guide offers a structured, resource-rich path to mastering AWS architecture principles and passing the certification with confidence. 🚀
-    </p>
-  </div>
-
-  <!-- Image on the right -->
-  <div style="flex: 1; min-width: 280px; text-align: center;">
-    <img src="./Assets/ALX%20Accepting%20Panar.png" alt="ALX Acceptance Banner" style="max-width: 30%; height: auto; border-radius: 8px;" />
-  </div>
-
-</div>
 
 
 ## 📌 Quick Navigation
