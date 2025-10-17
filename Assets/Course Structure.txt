@@ -1,0 +1,209 @@
+
+# 🧭 AWS Solutions Architect Course Overview
+
+This document outlines the weekly structure and module breakdown for the AWS Solutions Architect program. Each module includes key concepts, labs, demos, and knowledge checks aligned with the AWS Well-Architected Framework.
+
+---
+
+## 📚 Week 1
+
+### Course Resources
+- Content Resources  
+- Student Guide  
+
+### Module 2: Introducing Cloud Architecting
+- Introduction  
+- Cloud Architecting  
+- AWS Well-Architected Framework  
+- Best Practices for AWS Solutions  
+- AWS Global Infrastructure  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+---
+
+## 🔐 Week 2
+
+### Module 3: Securing Access
+- Introduction  
+- Security Principles  
+- Authentication & Authorization  
+- IAM Policy Structure  
+- Guided Lab: AWS IAM  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+### Module 4: Adding a Storage Layer with Amazon S3
+- Introduction  
+- Amazon S3 Overview  
+- Data Transfer & Storage  
+- Demos: Transfer Acceleration, Lifecycle, Versioning  
+- Designing with S3  
+- Challenge Lab: Static Website for the Café  
+- Applying Well-Architected Principles  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+---
+
+## ⚙️ Week 3
+
+### Module 5: Adding a Compute Layer Using Amazon EC2
+- Introduction  
+- EC2 Setup & Configuration  
+- AMI Selection & Instance Types  
+- Storage & Pricing Options  
+- Guided Lab: Amazon EFS  
+- Demos: EC2 User Data, Spot History  
+- Challenge Lab: Dynamic Website for the Café  
+- Applying Well-Architected Principles  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+### Module 6: Adding a Database Layer
+- Introduction  
+- Amazon RDS & DynamoDB  
+- Guided Lab: RDS Setup  
+- Demos: Backup, Replicas  
+- Purpose-Built Databases  
+- Challenge Lab: Database Migration  
+- Applying Well-Architected Principles  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+---
+
+## 🌐 Week 5
+
+### Module 7: Creating a Networking Environment
+- Introduction  
+- Amazon VPC Setup  
+- Network Security & Monitoring  
+- Demo: VPC Creation  
+- Guided Lab: VPC  
+- Challenge Lab: Café Networking  
+- Applying Well-Architected Principles  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+### Module 8: Connecting Networks
+- Introduction  
+- VPC Peering & Transit Gateway  
+- VPN & Direct Connect  
+- Guided Lab: VPC Peering  
+- Applying Well-Architected Principles  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+---
+
+## 🔒 Week 6
+
+### Module 9: Securing User, Application, and Data Access
+- Introduction  
+- Permissions & Federation  
+- Guided Labs: Cognito, Encryption  
+- AWS Security Services  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+### Module 10: Monitoring, Elasticity, and High Availability
+- Introduction  
+- Resource Monitoring & Scaling  
+- Demos: EC2 Auto Scaling, Route 53 Routing  
+- Guided Lab: High Availability  
+- Challenge Lab: Scalable Café Architecture  
+- Applying Well-Architected Principles  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+---
+
+## 🤖 Week 7
+
+### Module 11: Automating Your Architecture
+- Introduction  
+- Infrastructure as Code with CloudFormation  
+- Demos: Templates & Console  
+- Guided Lab: Automation  
+- Challenge Lab: Café Deployment  
+- Applying Well-Architected Principles  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+### Module 12: Caching Content
+- Introduction  
+- CloudFront & ElastiCache  
+- Applying Well-Architected Principles  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+---
+
+## 🧩 Week 9
+
+### Module 13: Building Decoupled Architectures
+- Introduction  
+- Amazon SQS, SNS, MQ  
+- Guided Lab: Decoupled Applications  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+### Module 14: Serverless Architectures & Microservices
+- Introduction  
+- AWS Lambda, API Gateway, Containers  
+- Guided Lab: Serverless Café  
+- Optional Lab: Microservices with Node.js  
+- Applying Well-Architected Principles  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+---
+
+## 📊 Week 10
+
+### Module 15: Data Engineering Patterns
+- Introduction  
+- Data Pipelines & Processing  
+- Storage & Analysis  
+- Applying Well-Architected Principles  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+### Module 16: Planning for Disaster
+- Introduction  
+- Disaster Recovery Strategies  
+- Guided Lab: AWS Storage Gateway  
+- Applying Well-Architected Principles  
+- Module Wrap-Up  
+- Student Guide  
+- Knowledge Check  
+
+---
+
+## 🏁 Week 11
+
+### Module 17: Capstone Project
+- Final Project  
+
+### Module 18: Course Assessment
+- Final Evaluation  
+
+### Module 19: Bridging to Certification
+- Student Guide  
+- Practice Questions via AWS Skill Builder  
+
