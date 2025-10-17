@@ -1,6 +1,6 @@
-# AWS Solutions Architect – Complete Learning Roadmap & Study Guide ![License](https://img.shields.io/badge/license-MIT-blue) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedAlhusaini.AWS-Cloud-Associate)
+# AWS Solutions Architect  ![License](https://img.shields.io/badge/license-MIT-blue) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedAlhusaini.AWS-Cloud-Associate)
 
-<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 2rem;">
 
   <!-- Text on the left -->
   <div style="flex: 1; min-width: 280px;">
@@ -22,6 +22,7 @@
   </div>
 
 </div>
+
 
 ## 📌 Quick Navigation
 
