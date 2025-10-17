@@ -1,8 +1,8 @@
 # AWS Solutions Architect  ![License](https://img.shields.io/badge/license-MIT-blue) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedAlhusaini.AWS-Cloud-Associate)
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td style="vertical-align: top; width: 60%;">
+    <td style="vertical-align: top; width: 60%; border: none;">
       <p>
         Hello! I'm <strong>Ahmed Tarek Alhusainy</strong>, welcome to the <strong>AWS Solutions Architect Associate (SAA-C03) Self-Study Guide</strong>!  
         👉 <a href="https://ahmedalhusaini.github.io/AWS-Cloud-Associate-Solution-Architect-SelfStudy-Materials/" target="_blank">Open the Repo Navigator</a>
@@ -14,11 +14,12 @@
         Whether you're just starting or deep into your cloud journey, this guide offers a structured, resource-rich path to mastering AWS architecture principles and passing the certification with confidence. 🚀
       </p>
     </td>
-    <td style="text-align: center; width: 40%;">
-      <img src="./Assets/ALX%20Accepting%20Panar.png" alt="ALX Acceptance Banner" style="max-width: 30%; border-radius: 8px;" />
+    <td style="text-align: center; width: 40%; border: none;">
+      <img src="./Assets/ALX%20Accepting%20Panar.png" alt="ALX Acceptance Banner" style="max-width: 100%; height: auto; border-radius: 8px;" />
     </td>
   </tr>
 </table>
+
 
 
 
