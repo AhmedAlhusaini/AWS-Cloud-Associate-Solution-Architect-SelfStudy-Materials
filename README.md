@@ -316,8 +316,8 @@ Feel free to reach out and connect:
 To clone this repository and start using the materials locally:
 
 ```bash
-git clone https://github.com/AhmedAlhusaini/aws-solutions-architect-roadmap.git
-cd aws-solutions-architect-roadmap
+git clone https://github.com/AhmedAlhusaini/AWS-Cloud-Associate-Solution-Architect-SelfStudy-Materials
+cd AWS-Cloud-Associate-Solution-Architect-SelfStudy-Materials
 ```
 
 Once cloned:
