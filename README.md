@@ -120,7 +120,6 @@ This balanced approach covered concept mastery and exam strategy effectively.
 - **Capstone:** Real-world AWS deployment project  
 - **Final Phase:** Career Launch + Community Mentorship  
 
----
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
 
   <!-- Table on the left -->
@@ -226,7 +225,6 @@ The modules progressively build the knowledge needed to design, deploy, and oper
 | 10 | Data & Disaster Recovery | Glue, Athena, Storage Gateway | DR Simulation |
 | 11 | Capstone & Certification | Multi-tier Integration | Final Assessment |
 
----
 
 ### 🧪 Labs, Demos & Applied Learning
 
@@ -267,7 +265,7 @@ Every module includes guided labs, challenge scenarios, and live demonstrations 
 - [ ] Week 10: Data & DR
 - [ ] Week 11: Capstone
 
----
+
 ## 🧪 Exam Preparation Kit
 
 This section contains my personal exam prep kit, designed to help learners **review, practice, and reinforce** key AWS concepts before taking the **SAA-C03 certification exam**. It brings together official exam resources, peer summaries in both Arabic and English, topic-based quizzes, and complete mock exams — all organized for structured and effective study.
@@ -317,7 +315,6 @@ Feel free to fork, share, or contribute. Let’s build the cloud together. ☁�
 - 💻 [Follow My GitHub](https://github.com/AhmedAlhusaini)
 - 💻 [Book A Meeting To Support You](https://tidycal.com/ahmedtarekalhusainy)
 
----
 
 ## 🔗 Connect With Me
 
