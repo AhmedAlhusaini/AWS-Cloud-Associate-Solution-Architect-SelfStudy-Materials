@@ -1,6 +1,6 @@
 # AWS Solutions Architect  ![License](https://img.shields.io/badge/license-MIT-blue) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedAlhusaini.AWS-Cloud-Associate)
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="vertical-align: top; width: 60%; border: none;">
       <p>
@@ -19,6 +19,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
