@@ -1,4 +1,5 @@
-# ☁️ AWS Solutions Architect – Complete Learning Roadmap & Study Guide
+# AWS Solutions Architect – Complete Learning Roadmap & Study Guide ![License](https://img.shields.io/badge/license-MIT-blue) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedAlhusaini.AWS-Cloud-Associate)
+
 ![I Start From Here With ALX](Assets/I%20start%20from%20Here%20With%20ALX.png)
 
 Hello! I'm **Ahmed Tarek Alhusainy**, and this is my personal roadmap and resource hub for mastering the **AWS Solutions Architect Associate (SAA-C03)** certification.
@@ -12,6 +13,20 @@ Welcome to the **AWS Solutions Architect Associate (SAA-C03) Self-Study Guide**!
 This repository is a roadmap based on my successful completion of the AWS SAA certification through the **ALX Cloud Computing Program**, which started with the **Cloud Practitioner (CCP)** track , powered by **AWS Academy Cloud Architecting v3**.  
 
 Whether you're just starting or deep into your cloud journey, this guide offers a structured, resource-rich path to mastering AWS architecture principles and passing the certification with confidence. 🚀
+
+## 📌 Quick Navigation
+
+- [Why This Guide?](#-why-this-guide)
+- [Study Strategy: SQ4R](#-study-strategy-sq4r-method)
+- [ALX Program Overview](#-alx-cloud-computing-program-track)
+- [AWS Modules M01–M17](#-alx-ehub---aws-academy-modules-m01--m17)
+- [Weekly Structure](#-weekly-structure-conceptual-view)
+- [Labs & Demos](#-labs-demos--applied-learning)
+- [Exam Preparation Kit](#-exam-preparation-kit)
+- [Getting Started](#-getting-started)
+- [Support My Work](#-support-my-work)
+
+
 
 ## 🧠 Why This Guide?
 
@@ -255,26 +270,26 @@ Every module includes guided labs, challenge scenarios, and live demonstrations 
 ---
 ## 🧪 Exam Preparation Kit
 
-This section contains my personal exam prep kit, designed to help learners **review, practice, and reinforce** key AWS concepts before taking the **SAA-C03 certification exam**. It brings together official exam resources, peers summaries in both arabic and english, topic-based quizzes, and complete mock exams — all organized for structured and effective study.
+This section contains my personal exam prep kit, designed to help learners **review, practice, and reinforce** key AWS concepts before taking the **SAA-C03 certification exam**. It brings together official exam resources, peer summaries in both Arabic and English, topic-based quizzes, and complete mock exams — all organized for structured and effective study.
 
-### 📦 Folder Structure & Contents
+### 📂 Key Folders & Files
 
-| Folder Name | Description |
-|-------------|-------------|
-| `0_Summaries` | Final revision notes compiled in the last 3 days before the exam. Ideal for quick recall and mental mapping. |
-| `0_AWS_Solutions_Architect_Learner_Exam_Info_Pack.pdf` | Overview of the learner journey, study strategy, and certification goals. |
-| `0_AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf` | Official exam guide from AWS, including domains, scoring, and blueprint. |
-| `1_Shorts_Topic_Based_Qs` | A concise set of exam-style questions organized by cloud topics (e.g., IAM, EC2, VPC, S3). Great for focused practice. |
-| `2_Full_Exam_Sets` | Complete mock exams simulating the real test environment. Use these to benchmark your readiness. |
-| `3_Useful_Websites` | Curated list of trusted platforms for practice questions and exam tips. See below 👇 |
+- [`0_Summaries`](ExamPreparation/0%20Summaries) – Final revision notes for quick recall and mental mapping
+- [`0_AWS_Solutions_Architect_Learner_Exam_Info_Pack.pdf`](ExamPreparation/0%20AWS%20Solutions%20Architect%20Learner%20Exam%20Info%20Pack.pdf) – Learner journey and study strategy
+- [`0_AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf`](ExamPreparation/0%20AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf) – Official AWS exam blueprint
+- [`1_Shorts_Topic_Based_Qs`](ExamPreparation/1%20Shorts-Topc%20Based%20Qs) – Topic-based practice questions by service
+- [`2_Full_Exam_Sets`](ExamPreparation/2%20Full%20Exam%20Sets) – Full mock exams to benchmark readiness
+- [`3_Useful_Websites`](ExamPreparation/3_Useful_Websites) – Curated links for extra practice
 
-🌐 **Useful Online Practice Platforms**
+🌐 **Online Practice Platforms**
 
 | Platform | Description | Link |
 |:--|:--|:--|
-| **SecExams** | Free and paid AWS practice exams regularly updated for **SAA-C03**. | [secexams.com/aws-certified-solutions-architect-associate-saa-c03](https://www.secexams.com/exams/Amazon/aws-certified-solutions-architect-associate-saa-c03/view/) |
-| **Tutorials Dojo / Jon Bonso** | Trusted community practice sets with detailed rationales per domain. | [tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c03-sample-exam-questions](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c03-sample-exam-questions/) |
-| **ExamTopics** | Public user-contributed questions; useful for identifying trends but verify accuracy. | [examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/) |
+| **SecExams** | Free and paid AWS practice exams for SAA-C03 | [secexams.com](https://www.secexams.com/exams/Amazon/aws-certified-solutions-architect-associate-saa-c03/view/) |
+| **Tutorials Dojo / Jon Bonso** | Community practice sets with detailed rationales | [tutorialsdojo.com](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c03-sample-exam-questions/) |
+| **ExamTopics** | User-contributed questions (verify accuracy) | [examtopics.com](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/) |
+
+💡 *Tip:* Use this kit with the SQ4R method to maximize retention and confidence before exam day.
 
 
 > 💡 Tip: Use this kit in combination with the SQ4R study method to maximize retention and confidence before exam day.
@@ -316,13 +331,13 @@ Feel free to reach out and connect:
 To clone this repository and start using the materials locally:
 
 ```bash
-git clone https://github.com/AhmedAlhusaini/AWS-Cloud-Associate-Solution-Architect-SelfStudy-Materials
+git clone https://github.com/AhmedAlhusaini/AWS-Cloud-Associate-Solution-Architect-SelfStudy-Materials && \
 cd AWS-Cloud-Associate-Solution-Architect-SelfStudy-Materials
-```
 
 Once cloned:
 - 📂 Navigate through folders like `0_Summaries`, `1_Shorts_Topic_Based_Qs`, and `2_Full_Exam_Sets`
 - 🖥️ Open PDF guides with any viewer
+- 🖥️ Open Stepha Meraak Course Materials 
 - 📝 Use the markdown files for structured study
 - 🧪 Practice with mock exams and topic-based questions
 
